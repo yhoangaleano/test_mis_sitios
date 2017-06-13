@@ -4,5 +4,6 @@ Proyecto de la especializacoón
 
 *No olvides que al descargar y abrir con VisualStudio Code se debe correr el comando.
 
-npm install
-ionic state restore
+*npm install
+
+*ionic state restore
